@@ -15,6 +15,11 @@
   <description>Answer movie-related questions using the Rotten Tomatoes web api</description>
 
   <dependencies>
+  <dependency>
+  	<groupId>com.google.code.gson</groupId>
+  	<artifactId>gson</artifactId>
+  	<version>2.5</version>
+  </dependency>
   </dependencies>
 
   <build>
