@@ -43,6 +43,11 @@
       <version>${dorset.version}</version>
     </dependency>
     <dependency>
+      <groupId>edu.jhuapl.dorset</groupId>
+      <artifactId>dorset-components</artifactId>
+      <version>${dorset.version}</version>
+    </dependency>
+    <dependency>
       <groupId>junit</groupId>
       <artifactId>junit</artifactId>
       <version>4.7</version>
